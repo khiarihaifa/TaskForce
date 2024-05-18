@@ -1,0 +1,1 @@
+git init : permet d'initialiser un repo git en local
